@@ -1,0 +1,24 @@
+body {
+  background-color: lightcyan;
+}
+
+h1 {
+  color: darkblue;
+}
+
+img{
+  width:200px;
+  height:200px;
+  color:white;
+  border-radius:20px;
+  vertical-align: top;
+}
+
+figcaption{
+  width: 315px;
+  text-align: left;
+  margin-left: 25px;
+  color:black;
+  font-style: bold;
+  font-size: 20px;
+}
